@@ -1,13 +1,26 @@
-# My Jobs
-
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+# React Native Jobs
+![repo screen](https://user-images.githubusercontent.com/66588352/236515218-a500c9e7-bcd8-45f3-80f1-9aeceea1d287.png)
 
 ## 🚀 How to use
 
-```sh
-npx create-react-native-app -t with-router
+clone the project 
+
+```
+git clone https://github.com/mahmoud-bebars/React-Native-Jobs/
+```
+
+install packages 
+
+```
+npm install
+```
+
+start the project on your own device
+
+```
+expo start
 ```
 
 ## 📝 Notes
 
-- [Expo Live](https://expo.dev/@mahmoudbebars/MBJobs?serviceType=classic&distribution=expo-go)
+- [Expo Live - not stable](https://expo.dev/@mahmoudbebars/MBJobs?serviceType=classic&distribution=expo-go)
